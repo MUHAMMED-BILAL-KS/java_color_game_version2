@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Microproject","l":"Connect"},{"p":"Microproject","l":"delete"},{"p":"Microproject","l":"f1"},{"p":"Microproject","l":"forgot"},{"p":"Microproject","l":"home"},{"p":"Microproject","l":"login"},{"p":"Microproject","l":"register"}];updateSearchResults();
