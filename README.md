@@ -2,19 +2,18 @@
 Color Game Is A Simple Game Created By Using Java and Mysql It Consist Of Many Colors .The Game Rule Is To Click The Correct Color That The Program Asks Within The Given Time. The Highscore Will Be Linked With Your Account Permenently
 
 # This Game Consist Of Following
-FRAMES
-->HOME
-It is the main home page menu
-->LOGIN
-It is the login page for existing user ->REGISTRATION
-It is registration page for new users
-->RESET PASSWORD
-It is for reseting the password of an existing
-user ->DELETE ACCOUNT
-It is for deleting an existing user account
-permenently
-->THE GAME
-It’s the main game
+FRAMES<br>
+->HOME<br>
+It is the main home page menu<br>
+->LOGIN<br>
+It is the login page for existing user ->REGISTRATION<br>
+It is registration page for new users<br>
+->RESET PASSWORD<br>
+It is for reseting the password of an existing user<br>
+->DELETE ACCOUNT<br>
+It is for deleting an existing user account permenently<br>
+->THE GAME<br>
+It’s the main game<br>
 
 # REGISTER
 ![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/1a95a276-3517-41fe-8175-62ef97ca91df)
