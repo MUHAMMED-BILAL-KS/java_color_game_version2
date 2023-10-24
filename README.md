@@ -25,7 +25,7 @@ It’s the main game<br>
 ![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/74b5987a-cbce-49e8-adfa-2a6ba033d36b)
 
 # RESET PASSWORD
-![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/7e945e72-9c17-4cde-a8ef-d95ae32a476b)
+![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/30d0ad5d-0312-492a-85ab-bd63d746a16b)
 
 # DELETE ACCOUNT
 ![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/adeeebd7-e21c-4098-9aed-e3b49bfe11b6)
