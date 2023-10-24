@@ -15,6 +15,9 @@ It is for deleting an existing user account permenently<br>
 ->THE GAME<br>
 It’s the main game<br>
 
+# HOME
+![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/16f4b751-26e6-4f1c-b001-00b18e199538)
+
 # REGISTER
 ![image](https://github.com/MUHAMMED-BILAL-KS/java_color_game_version2/assets/112198429/1a95a276-3517-41fe-8175-62ef97ca91df)
 
